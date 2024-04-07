@@ -1,9 +1,9 @@
 //these are variables you need to change with data from your own JobTread account
 //instrution on where to find this information is in the README file
 
-var VARgrantKey = "22SSfaQtNgvA2dYgRjkfrYLVn6KQaEZYhi";
-var VARorgID = "22NLTQwjkKmc";
-var VARtaskType = "013 Pay Phase";
+var VARgrantKey = "YOUR GRANT KEY";
+var VARorgID = "YOUR ORG ID";
+var VARtaskType = "YOUR TASK TYPE NAME";
 
 function daysInMonth(month, year) {
     // In JavaScript, Month is 0-indexed, hence month + 1
